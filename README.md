@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-## How to Contripute
+## How to Contribute
